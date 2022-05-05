@@ -1,5 +1,6 @@
-# HelloWorld
-This is  a test repo
-I am going to be the best github user.
-Commit 
-i am updating this again
+# Algorithms 
+Different type of Algorithms using Python
+* Bubble Sort
+* Merge Sort
+* Binary Sort
+
