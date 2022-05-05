@@ -1,5 +1,3 @@
-# Reference: https://stackabuse.com/bubble-sort-in-python/
-
 def bubble_sort(my_list):
     # We go through the list as many times as there are elements
     for i in range(len(my_list)):
