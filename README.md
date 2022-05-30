@@ -1,4 +1,4 @@
-# Programming Foundation
+# Programming Foundations
 
 Understanding and mastering the foundational programming concepts is imperative to be a successful software engineer.  
 
