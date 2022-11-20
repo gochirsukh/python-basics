@@ -10,7 +10,8 @@ obj=tacoma("toyota", "tacoma", "two wheel drive", "sylver")
 print("I driver", obj.make, obj.model, "with",  obj.terrain, obj.color, "color")
 
 # Output: 
-# I driver toyota two wheel drive with tacoma sylver color
+# I driver toyota tacoma with two wheel drive sylver color
+
 
 
 
