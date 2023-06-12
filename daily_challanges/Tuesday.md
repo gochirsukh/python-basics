@@ -10,6 +10,6 @@
 
 #### Class and Self 
 
-* Demonstratote how to use `self` with in a class 
+* Demonstrate how to use `self` keyword within a class 
 * `self` == context of the class 
 
