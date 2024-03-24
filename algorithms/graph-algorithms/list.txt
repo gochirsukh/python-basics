@@ -1,4 +1,0 @@
-test-dir1
-test-dir2
-test-dir3
-test-dir4
