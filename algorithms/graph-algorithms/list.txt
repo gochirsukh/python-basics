@@ -1,9 +1,4 @@
-   dijkstra-algorithm
-   bellman-ford-algorithm
-   prim-algorithm
-   kruskal-algorithm
-   floyd-warshall-algorithm
-   topological-sorting
-   tarjan-algorithm
-   edmonds-karp-algorithm
-   hopcroft-karp-lgorithm
+test-dir1
+test-dir2
+test-dir3
+test-dir4
