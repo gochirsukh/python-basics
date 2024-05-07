@@ -1,0 +1,2 @@
+print(stack)
+print(queues)
