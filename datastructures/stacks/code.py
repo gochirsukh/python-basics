@@ -1,2 +1,2 @@
-print(stack)
-print(queues)
+print("stack")
+
