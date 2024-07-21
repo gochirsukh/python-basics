@@ -1,6 +1,6 @@
 # Programming Foundations
 
-Understanding and mastering the foundational programming concepts is imperative to being a successful software engineer. The repo was created for those who are interested in learning the fundamentals of programming through Python.  
+A competent software engineer must comprehend and be proficient in the fundamental fundamentals of programming. The repository was established for anyone who want to use Python to learn the basics of programming.
 
 ## Contents
 
