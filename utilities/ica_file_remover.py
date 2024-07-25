@@ -27,13 +27,13 @@ def remove_ica(directory):
             except:
                 print("Something is wrong")
 
-list_ica('/Users/go023012/Downloads')
+list_ica('/tmp/dumbster')
 
 response = input("Would you like to remove them, y/n: ")
 
 if response.lower() == 'y':
     print("Removing the files")
-    remove_ica('/Users/go023012/Downloads')
+    remove_ica('/tmp/dumbster')
 else:
     print("Answer was no or invalid entry, exit")
     
