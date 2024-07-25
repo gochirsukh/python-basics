@@ -4,6 +4,7 @@
 # This is just a quick script i wrote under 20 min and it has some room for improvement
 
 import os
+import sys
 
 def list_ica(directory):
     files = [f for f in os.listdir(directory) if f.endswith('.ica')]
@@ -14,6 +15,7 @@ def list_ica(directory):
             print(file)            
     else:
         print("No ICA files found")
+        sys.exit(0)
 
 def remove_ica(directory):
     for filename in os.listdir(directory):
@@ -25,13 +27,13 @@ def remove_ica(directory):
             except:
                 print("Something is wrong")
 
-list_ica('/tmp/dumbster')
+list_ica('/Users/go023012/Downloads')
 
 response = input("Would you like to remove them, y/n: ")
 
 if response.lower() == 'y':
     print("Removing the files")
-    remove_ica('/tmp/dumbster')
+    remove_ica('/Users/go023012/Downloads')
 else:
     print("Answer was no or invalid entry, exit")
     
