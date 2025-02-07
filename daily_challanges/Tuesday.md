@@ -7,6 +7,7 @@
 #### Classes and Methods 
 
 * Write a class that includes a method that adds two numbers and returns the result 
+* [Example](../classes/c_addition_class.py)
 
 #### Class and Self 
 
