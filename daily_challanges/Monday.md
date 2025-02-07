@@ -3,6 +3,8 @@
 #### Recursion challange 
 
 * Write an algorithm that finds a factorial of a given number 
+* [Example](../algorithms/recursion/finding_factorial.py)
+
 
 #### Binary Search 
 
