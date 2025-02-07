@@ -1,11 +1,14 @@
-class Person:
-    def __init__(self, name, age):
-        self.name = name
-        self.age = age
+class Calc: 
+    def __init__(self, x, y):
+        self.x = x 
+        self.y = y 
 
-    def myfunc(self):
-        print("Hello my name is " + self.name,  "I am ",  self.age, "years old")
+    def add(self):
+        return self.x + self.y
 
-p1 = Person("Peter", 32)
-p1.myfunc()
+obj = Calc(4, 5) 
+
+num = obj.add()
+print(num)
+
 
