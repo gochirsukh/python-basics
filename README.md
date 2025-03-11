@@ -1,6 +1,6 @@
 # Programming Foundations
 
-A competent software engineer must comprehend and be proficient in the fundamental fundamentals of programming. The repository was established for anyone who want to use Python to learn the basics of programming.
+The repository was created for anyone interested in learning the fundamentals of programming using Python.
 
 ## Contents
 
@@ -13,13 +13,13 @@ A competent software engineer must comprehend and be proficient in the fundament
 
 ## Python Challanges 
 
-* [Monday](./daily_challanges/Monday.md)
-* [Tuesday](./daily_challanges/Tuesday.md)
-* [Wednesday](./daily_challanges/Wednesday.md) 
-* [Thursday](./daily_challanges/Thursday.md)
-* [Friday](./daily_challanges/Friday.md)
-* [Saturday](./daily_challanges/Saturday.md) 
-* [Sunday](./daily_challanges/Sunday.md)
+* [Challange-1](./daily_challanges/Monday.md)
+* [Challange-2](./daily_challanges/Tuesday.md)
+* [Challange-3](./daily_challanges/Wednesday.md) 
+* [Challange-4](./daily_challanges/Thursday.md)
+* [Challange-5](./daily_challanges/Friday.md)
+* [Challange-6](./daily_challanges/Saturday.md) 
+* [Challange-7](./daily_challanges/Sunday.md)
 
 
 
