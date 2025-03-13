@@ -6,7 +6,9 @@ class Person:
         return f"Hello my name is {self.name}"
     def congrats(self):
         return f"I {self.name} have mastered classes and objects"
-    
+
+b = Person("John Wick")    
 p = Person("Fitzgerald")
-print(p.greet())
-print(p.congrats())
+
+for i in range(5):
+    print( p.greet(), " ", p.congrats(),)
