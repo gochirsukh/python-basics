@@ -1,12 +1,12 @@
-# Programming Foundations
+# Python Foundations
 
 The repository was created for anyone interested in learning the fundamentals of programming using Python.
 
 ## Contents
 
-- Classes 
-- Algorithms
-- Data Structures 
+- [Classes](./classes) 
+- [Algorithms](./algorithms)
+- [Data Structures](./datastructures) 
 - Recursion
 - File Handling
 
