@@ -7,9 +7,11 @@ The repository was created for anyone interested in learning the fundamentals of
 - [Classes](./classes) 
 - [Algorithms](./algorithms)
 - [Data Structures](./datastructures) 
-- Recursion
-- File Handling
-
+- [Conditionals](./conditionals)
+- [Loops](./loops)
+- [Functions](./functions)
+- [File Handling](./file_handling)
+- [Error Handling](./error_handling)
 
 ## Python Challanges 
 
